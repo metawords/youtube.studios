@@ -1,7 +1,7 @@
 # Youtube Studios
 
 
-[youtube studios](https://github.com/metawords/youtube.studios)
+[![youtube studios](blue.png)](https://github.com/metawords/youtube.studios)
 
 YouTube offers the tool YouTube Studio for content creators to manage their channels more effectively.
 
